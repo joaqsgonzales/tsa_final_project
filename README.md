@@ -1,4 +1,4 @@
-# tsa_final_project
+# TSA Final Project
 Explore TSFresh in forecasting Dubai oil prices
 
 TSA Final Project - Sharyl Sy & Joaqs Gonzales
