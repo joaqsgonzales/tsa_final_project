@@ -9,7 +9,7 @@ This repository attempts to make forecasts on the Dubai crude oil prices (actual
 
 To run the notebooks, install `conda` and then create an environment for this repository using the following command:
 
-`conda env create -f environment.yml`
+`conda env create -f tsa-project.yml`
 
 This creates an environment named `tsa-project` and installs all the required packages with the specified version according to the `tsa-project.yml` file specified here.
 
