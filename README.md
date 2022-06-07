@@ -11,7 +11,7 @@ To run the notebooks, install `conda` and then create an environment for this re
 
 `conda env create -f environment.yml`
 
-This creates an environment named `tsa-project` and installs all the required packages with the specified version according to the `environment.yml` file specified here.
+This creates an environment named `tsa-project` and installs all the required packages with the specified version according to the `tsa-project.yml` file specified here.
 
 Afterwards, activate this environment using the command:
 
