@@ -1,6 +1,6 @@
 # TSA Final Project
 
-This repository is submitted by Sharyl Sy and Joaqs Gonzales as part of the requirements of the Time Series Analysis class at the Asian Institute of Management.
+This repository is submitted by Sharyl Sy and Joaqs Gonzales as part of the requirements in the Time Series Analysis class of the Asian Institute of Management's Master of Science in Data Science program.
 
 In these notebooks, we share how tsFresh could be integrated with machine-learning based time-series forecasting pipelines and deep learning models. tsFresh is an automated feature extraction library for time-series data which gets relevant trend and movement statistics from the time-series being modelled and then identifies which among these features are statistically significant in forecasting.
 
